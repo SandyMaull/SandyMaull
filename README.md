@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kuro</h1>
-<h3 align="center">A Network Engineer who bored enough to explore about programming</h3>
+<h3 align="center">A Network Engineer who excited enough to explore about programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandymaull&label=Profile%20views&color=0e75b6&style=flat-square" alt="sandymaull" /> </p>
 
