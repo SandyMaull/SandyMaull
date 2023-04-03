@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://pasarhosting.com/blog/](https://pasarhosting.com/blog/)
 
-- 💬 Ask me about **Networking, Basic Programming, Python, Webdev**
+- 💬 Ask me about **Networking, Basic Programming, Python, Linux**
 
 - 📫 How to reach me **kuro@kuronekosan.web.id**
 
